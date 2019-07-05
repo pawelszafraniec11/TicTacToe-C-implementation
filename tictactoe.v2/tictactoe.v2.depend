@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1562193279 source:c:\users\dell\desktop\tictactoe.v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"functions.h"
+	"boards.h"
+
+1562362642 c:\users\dell\desktop\tictactoe.v2\functions.h
+
+1561408590 c:\users\dell\desktop\tictactoe.v2\boards.h
+
+1562353791 source:c:\users\dell\desktop\tictactoe.v2\boards.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"boards.h"
+	"functions.h"
+
+1562356223 source:c:\users\dell\desktop\tictactoe.v2\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"boards.h"
+	"functions.h"
+
